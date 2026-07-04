@@ -4,7 +4,7 @@ def mostrar_menu():
     print("2. Búsqueda de arreglos por rango de precio")
     print("3. Actualizar precio de arreglo")
     print("4. Agregar arreglo")
-    print("5. Eliminar arreglo ")
+    print("5. Eliminar arreglo")
     print("6. Salir")
     print("=====================================")
 
